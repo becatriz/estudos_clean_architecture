@@ -7,7 +7,6 @@
     "outDir": "dist",
     "rootDir": "src",
     "strict": true,
-    "types": ["node"],
     "esModuleInterop": true,
     "moduleResolution": "node",
     "resolveJsonModule": true,
@@ -17,6 +16,7 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
-    "removeComments": true
+    "removeComments": true,
+        
   }
 }
